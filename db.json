@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "email": "rk.test.com",
+      "name": "Ranjan",
+      "password": "rk12345",
+      "id": 1
+    },
+    {
+      "name": "Dhimal",
+      "email": "dhimal@gmail.com",
+      "password": "dhimal",
+      "id": 2
+    },
+    {
+      "name": "Dadey",
+      "email": "dadey@mail.com",
+      "password": "dadey",
+      "id": 3
+    },
+    {
+      "name": "Gothey",
+      "email": "gothey@mail.com",
+      "password": "gothey",
+      "id": 4
+    },
+    {
+      "name": "Facere fugit ullam ",
+      "email": "coditex@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 5
+    },
+    {
+      "name": "Facilis aut in conse",
+      "email": "viquq@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "name": "SuperMan",
+      "email": "superman@test.com",
+      "password": "superman",
+      "id": 7
+    },
+    {
+      "name": "Enim sequi harum ips",
+      "email": "zorej@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 8
+    }
+  ],
+  "resturant": [
+    {
+      "name": "Dadey Guest House",
+      "address": "PepsiCola",
+      "contact": "98512311113",
+      "id": 1
+    },
+    {
+      "name": "Dhimal Meals",
+      "address": "Sundarijal",
+      "contact": "9861327058",
+      "id": 2
+    }
+  ]
+}
